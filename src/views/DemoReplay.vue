@@ -16,7 +16,7 @@ import ReplayIdForm from "@/components/ReplayIdForm.vue";
 import GameMap from "@/components/GameMap.vue";
 
 const { sendReplayMessage, replayData } = useWebSocket();
-const matchId = ref("a542fff4-1945-46ce-8acc-da17acc044d0");
+const matchId = ref("");
 
 const submitReplayId = () => {
   sendReplayMessage(matchId.value);
