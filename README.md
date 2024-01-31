@@ -1,5 +1,6 @@
 # Rank yoinker frontend
 Frontend project based on zayKenyon VALORANT-rank-yoinker
+**_Made for educational purpose only_**
 
 ## Technologies
 
@@ -12,3 +13,13 @@ This project is built with the following technologies:
 - [Sass](https://sass-lang.com/) - A CSS preprocessor that helps write styles more efficiently.
 - [Vue-tsc](https://github.com/johnsoncodehk/volar/tree/master/packages/vue-tsc) - TypeScript type checking for `.vue` files.
   
+## Acknowledgements
+
+- [Valorant-API](https://valorant-api.com/)
+- [techchrism API docs](https://valapidocs.techchrism.me/)
+
+## Routes
+### Demo replay
+![Demo replay](https://github.com/sherstkov/rank-yoinker-frontend/assets/93656881/bcb47de3-2c65-4a85-95d9-4e745a3736bf)
+### Match stats
+![изображение](https://github.com/sherstkov/rank-yoinker-frontend/assets/93656881/c990454b-38be-448e-a165-ed1a0ff6f439)
